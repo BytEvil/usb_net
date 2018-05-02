@@ -673,3 +673,4 @@ MODULE_AUTHOR("Greg Suarez <gsuarez@smithmicro.com>");
 MODULE_AUTHOR("Bjørn Mork <bjorn@mork.no>");
 MODULE_DESCRIPTION("USB CDC MBIM host driver");
 MODULE_LICENSE("GPL");
+
